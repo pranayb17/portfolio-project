@@ -4,5 +4,5 @@
 Javascript. The website contains different sections that shows the
 information about my skills , education and certifications.</h3>
 
-<img src = "screenshots/front.png" >
+<img src = "screenshots/front.png">
 
